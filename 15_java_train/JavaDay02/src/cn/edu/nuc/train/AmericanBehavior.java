@@ -4,13 +4,13 @@ public class AmericanBehavior implements PersonBehavior{
 
 	@Override
 	public void see() {
-		System.out.println("ÓÃÀ¶É«ÑÛ¾¦¿´");
+		System.out.println("ç”¨è“è‰²çœ¼ç›çœ‹");
 		
 	}
 
 	@Override
 	public void hand() {
-		System.out.println("ÓÃÊÖ´´Ôì");
+		System.out.println("ç”¨æ‰‹åˆ›é€ ");
 		
 	}
 
